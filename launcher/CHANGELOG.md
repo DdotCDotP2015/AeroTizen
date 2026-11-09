@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.8.0](https://github.com/helalaou/AeroTizen/compare/launcher-v2.7.0...launcher-v2.8.0) (2026-11-09)
+
+
+### Features
+
+* **launcher:** add Brazilian Portuguese translation ([#195](https://github.com/helalaou/AeroTizen/issues/195)) ([2564ffa](https://github.com/helalaou/AeroTizen/commit/2564ffae3aae0b59115b90a3cb5bcb58a3150871))
+
+
+### Bug Fixes
+
+* **launcher:** add Crunchyroll, HBO Max and Twitch app IDs ([#198](https://github.com/helalaou/AeroTizen/issues/198)) ([db6c24c](https://github.com/helalaou/AeroTizen/commit/db6c24c78396c37324e13a83b29ba020d1bf478d))
+* **launcher:** offer Samsung viewer for HDMI playback ([#127](https://github.com/helalaou/AeroTizen/issues/127)) ([9863286](https://github.com/helalaou/AeroTizen/commit/9863286bdd7ae26e2e2676e66a52c8d62b9fea60))
+* **launcher:** recover from disconnected HDMI inputs ([#200](https://github.com/helalaou/AeroTizen/issues/200)) ([69046c1](https://github.com/helalaou/AeroTizen/commit/69046c17afaa8d622d20d5f84958df5220f47827))
+* **launcher:** skip /leave in Native Home ([#184](https://github.com/helalaou/AeroTizen/issues/184)) ([ddfc9c5](https://github.com/helalaou/AeroTizen/commit/ddfc9c5634646389f9787e5ba3dcae00d915d71b))
+
+
+### Performance Improvements
+
+* **launcher:** reduce navigation and rendering work ([#201](https://github.com/helalaou/AeroTizen/issues/201)) ([2c59815](https://github.com/helalaou/AeroTizen/commit/2c59815593eec5b5a427551ac75ba23c587cef93))
+
 ## [2.7.0](https://github.com/helalaou/AeroTizen/compare/launcher-v2.6.0...launcher-v2.7.0) (2026-11-07)
 
 
